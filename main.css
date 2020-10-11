@@ -61,7 +61,7 @@ body {
 		font-size: 1em;
 		cursor: pointer;
 		position: relative;
-	    top: 570px; 
+	        top: 100px; 
 		overflow: hidden;
 	}
 .btn button::before{
